@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: Hikvision-SDK Add-on
-url: "https://github.com/maximl31/Hikvision-SDK"
+url: "https://github.com/maximl31/Hikvision-Addons"
 maintainer: Maxim <example@gmail.com>
